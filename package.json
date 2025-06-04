@@ -1,0 +1,20 @@
+{
+  "name": "learn_shadcn",
+  "version": "1.0.0",
+  "description": "This repo is for laerning shadcn.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KazuhiroIto0127/learn_shadcn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KazuhiroIto0127/learn_shadcn/issues"
+  },
+  "homepage": "https://github.com/KazuhiroIto0127/learn_shadcn#readme"
+}
